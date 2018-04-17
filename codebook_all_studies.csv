@@ -1,0 +1,176 @@
+﻿Study,Variable Name,Description
+Study 1,participant,participant number
+Study 1,condition,assigned condition
+Study 1,block,block number
+Study 1,trial,trial number
+Study 1,red,R color value of current stimulus
+Study 1,green,G color value of current stimulus
+Study 1,blue,B color value of current stimulus
+Study 1,response,participant classification of current stimulus (binary)
+Study 1,rt,reaction time
+Study 1,duration,total task duration
+Study 1,gender,Please indicate your gender:
+Study 1,age,How old are you?
+Study 1,ease,Did you find the task easy or difficult?
+Study 1,handed,Are you right or left handed?
+Study 1,glasses,"Do you wear corrective lenses? If so, are you wearing them right now?"
+Study 1,colorblind,"Do you have normal color vision? If not, please be specific about the nature of your color blindness (ex: red­green colorblind, blue­yellow colorblind, etc). "
+Study 1,language,Is English your only native language? 
+Study 1,language_what,"Since you indicated that you grew up speaking languages other than English, please tell us what language(s) you grew up speaking: "
+Study 1,hypothesis,What do you think this study was about? 
+Study 1,difficulty_over_time,Do you think that it became easier or harder to find blue dots as the study progressed? 
+Study 1,did_freq_change,Do you feel that the amount of blue dots in each series changed during the study? 
+Study 1,freq1,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the first few series, I saw..."
+Study 1,freq2,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- The the middle few series, I saw..."
+Study 1,freq3,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the last few series, I saw..."
+Study 2,participant,participant number
+Study 2,condition,assigned condition
+Study 2,block,block number
+Study 2,trial,trial number
+Study 2,red,R color value of current stimulus
+Study 2,green,G color value of current stimulus
+Study 2,blue,B color value of current stimulus
+Study 2,response,participant classification of current stimulus (binary)
+Study 2,rt,reaction time
+Study 2,duration,total task duration
+Study 2,gender,Please indicate your gender:
+Study 2,age,How old are you?
+Study 2,ease,Did you find the task easy or difficult?
+Study 2,handedness,Are you right or left handed?
+Study 2,glasses,"Do you wear corrective lenses? If so, are you wearing them right now?"
+Study 2,colorblind,"Do you have normal color vision? If not, please be specific about the nature of your color blindness (ex: red­green colorblind, blue­yellow colorblind, etc). "
+Study 2,english,Is English your only native language? 
+Study 2,difficulty,Do you think that it became easier or harder to find blue dots as the study progressed? 
+Study 2,did_freq_change,Do you feel that the amount of blue dots in each series changed during the study? 
+Study 2,freq_bars_1,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the first few series, I saw..."
+Study 2,freq_bars_2,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- The the middle few series, I saw..."
+Study 2,freq_bars_3,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the last few series, I saw..."
+Study 2,def,"By the end of the study, do you think that your definition of what counted as a ""blue"" dot changed? "
+Study 2,MC,What did the instructions at the beginning of the study say about how the amount of blue dots would change over time? 
+Study 3,participant,participant number
+Study 3,condition,assigned condition
+Study 3,block,block number
+Study 3,trial,trial number
+Study 3,trial_rgb,RGB values of current stimulus
+Study 3,response,participant classification of current stimulus (binary)
+Study 3,RT,reaction time
+Study 3,color,blue value of current stimulus
+Study 3,gender,Please indicate your gender:
+Study 3,age,How old are you?
+Study 3,ease,Did you find the task easy or difficult?
+Study 3,handedness,Are you right or left handed?
+Study 3,glasses,"Do you wear corrective lenses? If so, are you wearing them right now?"
+Study 3,colorvis,"Do you have normal color vision? If not, please be specific about the nature of your color blindness (ex: red­green colorblind, blue­yellow colorblind, etc). "
+Study 3,english,Is English your only native language? 
+Study 3,langs,"Since you indicated that you grew up speaking languages other than English, please tell us what language(s) you grew up speaking: "
+Study 3,hypothesis,What do you think this study was about? 
+Study 3,difficulty,Do you think that it became easier or harder to find blue dots as the study progressed? 
+Study 3,freq,Do you feel that the amount of blue dots in each series changed during the study? 
+Study 3,freq_bars_1,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the first few series, I saw..."
+Study 3,freq_bars_2,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the middle few series, I saw..."
+Study 3,freq_bars_3,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the last few series, I saw..."
+Study 3,def,"By the end of the study, do you think that your definition of what counted as a ""blue"" dot changed? "
+Study 3,MC_consistency,What did the instructions at the beginning of the study say about the consistency of your responses in the task? 
+Study 3,MC_compensation,Were you told that it was possible to earn a cash bonus in this experiment? 
+Study 4,participant,participant number
+Study 4,condition,assigned condition
+Study 4,block,block number
+Study 4,trial,trial number
+Study 4,red,R color value of current stimulus
+Study 4,green,G color value of current stimulus
+Study 4,blue,B color value of current stimulus
+Study 4,response,participant classification of current stimulus (binary)
+Study 4,rt,reaction time
+Study 4,color,blue value of current stimulus
+Study 4,Handed,Are you right or left handed?
+Study 4,duration,total task duration
+Study 4,gender,Please indicate your gender:
+Study 4,age,How old are you?
+Study 4,ease,Did you find the task easy or difficult?
+Study 4,handedness,Are you right or left handed?
+Study 4,glasses,"Do you wear corrective lenses? If so, are you wearing them right now?"
+Study 4,colorvis,"Do you have normal color vision? If not, please be specific about the nature of your color blindness (ex: red­green colorblind, blue­yellow colorblind, etc)."
+Study 4,english,Is English your only native language?
+Study 4,lang_text,"Since you indicated that you grew up speaking languages other than English, please tell us what language(s) you grew up speaking:"
+Study 4,difficulty,Do you think that it became easier or harder to find blue dots as the study progressed?
+Study 4,freq,Do you feel that the amount of blue dots in each series changed during the study?
+Study 4,freq_bars_1,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the first few series, I saw..."
+Study 4,freq_bars_2,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the middle few series, I saw..."
+Study 4,freq_bars_3,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the last few series, I saw..."
+Study 4,def,"By the end of the study, do you think that your definition of what counted as a ""blue"" dot changed?"
+Study 4,MC,What did the instructions at the beginning of the study say about how the amount of blue dots would change over time?
+Study 5,participant,participant number
+Study 5,condition,assigned condition
+Study 5,block,block number
+Study 5,trial,trial number
+Study 5,red,R color value of current stimulus
+Study 5,green,G color value of current stimulus
+Study 5,blue,B color value of current stimulus
+Study 5,response,participant classification of current stimulus (binary)
+Study 5,rt,reaction time
+Study 5,duration,total task duration
+Study 5,gender,Please indicate your gender:
+Study 5,age,How old are you?
+Study 5,ease,Did you find the task easy or difficult?
+Study 5,handed,Are you right or left handed?
+Study 5,glasses,"Do you wear corrective lenses? If so, are you wearing them right now?"
+Study 5,colorblind,"Do you have normal color vision? If not, please be specific about the nature of your color blindness (ex: red­green colorblind, blue­yellow colorblind, etc). "
+Study 5,language,Is English your only native language? 
+Study 5,language_what,"Since you indicated that you grew up speaking languages other than English, please tell us what language(s) you grew up speaking: "
+Study 5,hypothesis,What do you think this study was about? 
+Study 5,difficulty_over_time,Do you think that it became easier or harder to find blue dots as the study progressed? 
+Study 5,did_freq_change,Do you feel that the amount of blue dots in each series changed during the study? 
+Study 5,freq1,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the first few series, I saw..."
+Study 5,freq2,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the middle few series, I saw..."
+Study 5,freq3,"We want to get a sense of how many blue dots you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the dots you saw were blue. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the last few series, I saw..."
+Study 6,participant,participant number
+Study 6,condition,assigned condition
+Study 6,block,block number
+Study 6,trial,trial number
+Study 6,face,threat intensity of current stimulus
+Study 6,response,participant classification of current stimulus (binary)
+Study 6,rt,reaction time
+Study 6,duration,total task duration
+Study 6,gender,Please indicate your gender:
+Study 6,age,How old are you?
+Study 6,ease_overall,Did you find the task easy or difficult?
+Study 6,handed,Are you right or left handed?
+Study 6,glasses,"Do you wear corrective lenses? If so, are you wearing them right now?"
+Study 6,colorvis,"Do you have normal color vision? If not, please be specific about the nature of your color blindness (ex: red­green colorblind, blue­yellow colorblind, etc). "
+Study 6,faceblind,"Do you have trouble recognizing faces, or do you have prosopagnosia (face­blindness)? "
+Study 6,english,Is English your only native language? 
+Study 6,langs,"Since you indicated that you grew up speaking languages other than English, please tell us what language(s) you grew up speaking: "
+Study 6,difficulty_over_time,Do you think it became easier or harder to find threatening faces as the study progressed? 
+Study 6,did_freq_change,Do you feel that the amount of threatening faces in each series changed during the study? 
+Study 6,freq1,"We want to get a sense of how many threatening faces you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the faces you saw were threatening. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the first few series, I saw..."
+Study 6,freq2,"We want to get a sense of how many threatening faces you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the faces you saw were threatening. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the middle few series, I saw..."
+Study 6,freq3,"We want to get a sense of how many threatening faces you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the faces you saw were threatening. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the last few series, I saw..."
+Study 7,participant,participant number
+Study 7,item,unique ID of current stimulus
+Study 7,condition,assigned condition
+Study 7,block,block number
+Study 7,trial,trial number
+Study 7,response,participant classification of current stimulus (binary)
+Study 7,rt,reaction time
+Study 7,prevalence,prevalence condition
+Study 7,order,order of items in condition
+Study 7,bin,experimenter guess at harmfulness of item
+Study 7,timebin5,binned trial variable for plotting
+Study 7,norm_mean,mean of mturk pretested ethicality of item
+Study 7,norm_sd,standard deviation of mturk pretested ethicality of item
+Study 7,norm_se,standard error of mturk pretested ethicality of item
+Study 7,duration,total task duration
+Study 7,gender,Please indicate your gender:
+Study 7,gender_TEXT,Other:
+Study 7,age,How old are you?
+Study 7,ease,Did you find the task easy or difficult?
+Study 7,handedness,Are you right or left handed?
+Study 7,glasses,"Do you wear corrective lenses? If so, are you wearing them right now?"
+Study 7,english,Is English your only native language? 
+Study 7,langs,"Since you indicated that you grew up speaking languages other than English, please tell us what language(s) you grew up speaking: "
+Study 7,difficulty,Do you think that it became easier or harder to find unethical studies as the study progressed? 
+Study 7,did_freq_change,Do you feel that the amount of unethical experiments in each series changed during the study? 
+Study 7,freq_bars_1,"We want to get a sense of how many unethical experiments you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the experiments you saw were unethical. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the first few series, I saw..."
+Study 7,freq_bars_2,"We want to get a sense of how many unethical experiments you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the experiments you saw were unethical. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the middle few series, I saw..."
+Study 7,freq_bars_3,"We want to get a sense of how many unethical experiments you think you saw at different times in the study. Please indicate, using the sliders below, your impressions about what proportion of the experiments you saw were unethical. If you have no idea, please check the box labeled ""Not sure"" instead of using the slider. -- In the last few series, I saw..."
+Study 7,def,"By the end of the study, do you think that your definition of what counted as an ""unethical"" experiment changed? "
