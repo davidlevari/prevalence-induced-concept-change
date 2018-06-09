@@ -12,10 +12,6 @@
 # run on some machines. I have commented out some secondary diagnostic checks in 
 # the script which take even longer.
 
-# TO DO
-# Add legends back in
-# fix x-axis?
-
 # Setup -------------------------------------------------------------------
 
 # Packages needed to run code
